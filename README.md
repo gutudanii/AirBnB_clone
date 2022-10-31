@@ -263,7 +263,7 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 ```
 ## Authors
 <details>
-    <summary>Muluken Sholaye</summary>
+    <summary>Gutu Daniel Geleta</summary>
     <ul>
     <li><a href="https://www.github.com/MulukenSholaye">Github</a></li>
     <li><a href="mailto:mulesho2490@gmail.com">e-mail</a></li>
