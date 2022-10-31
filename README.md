@@ -265,15 +265,8 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 <details>
     <summary>Gutu Daniel Geleta</summary>
     <ul>
-    <li><a href="https://www.github.com/MulukenSholaye">Github</a></li>
-    <li><a href="mailto:mulesho2490@gmail.com">e-mail</a></li>
-    </ul>
-</details>
-<details>
-    <summary>Sorho Yves</summary>
-    <ul>
-    <li><a href="https://www.github.com/sorhoyves">Github</a></li>
-    <li><a href="mailto:sielle.sorho@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/gutudaniii">Github</a></li>
+    <li><a href="mailto:gutudanielgeleta@gmail.com">e-mail</a></li>
     </ul>
 </details>
 
